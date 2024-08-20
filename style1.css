@@ -1,0 +1,46 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(140, 82, 21, 0.464);
+}
+.cima{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(100, 68, 37);
+}
+.botao{
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+.home{
+    height: 35px;
+    width: 100px;
+    margin: 5px;
+    background-color: rgb(122, 71, 3);
+}
+.fotos{
+    height: 35px;
+    width: 100px;
+    margin: 5px;
+    background-color: rgb(122, 71, 3);
+}
+.textop1{
+    margin: 15px;
+    height: 250px;
+    font-size: 35px;
+    
+}
+.parte2{
+    display: flex;
+}
+.imgp2{
+    height 725px;
+    width: 525px;
+    margin: 5px;
+}
+.textop2{
+    font-size: 35px;
+}

@@ -1,0 +1,56 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(140, 82, 21, 0.464);
+}
+.cima{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(100, 68, 37);
+    
+}
+.botao{
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+.home{
+    height: 35px;
+    width: 100px;
+    margin: 5px;
+    background-color: rgb(122, 71, 3);
+}
+.sobre{
+    height: 35px;
+    width: 100px;
+    margin: 5px;
+    background-color: rgb(122, 71, 3);
+}
+.fotosp1{
+    display: flex;
+}
+.graos{
+    margin: 5px;
+    width: 50%;
+    height: 20%;
+}
+.esquema{
+    margin: 5px;
+    width: 50%;
+    height: 25%;
+}
+.fotosp2{
+    display: flex;
+}
+.muda{
+    width: 50%;
+    height: 25%;
+    margin: 5px;
+}
+.cafezal{
+    margin: 5px;
+    width: 50%;
+    height: 25%;
+}
